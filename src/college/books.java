@@ -198,8 +198,7 @@ public class books {
  {
 
      // Displaying menu
-     System.out.println(
-         "----------------------------------------------------------------------------------------------------------");
+     System.out.println( "-----------------------------------------------------------------------------------");
      System.out.println("Press 1 to Add new Book.");
      System.out.println("Press 0 to Exit Application.");
      System.out.println(
@@ -211,8 +210,7 @@ public class books {
          "Press 6 to Show All Registered Students.");
      System.out.println("Press 7 to Check Out Book. ");
      System.out.println("Press 8 to Check In Book");
-     System.out.println(
-         "-------------------------------------------------------------------------------------------------------");
+     System.out.println("-------------------------------------------------------------------------------------");
  }
 
  // Method 8
